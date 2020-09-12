@@ -361,7 +361,7 @@
                             <div class="card-body">
                                 <article>
                                     <div class="thumb md">
-                                        <img src="uploads/tech-thumb-1.png" alt="txt" title="txt">
+                                        <img src="uploads/tech-thumb-1.png" alt="Laravel" title="Laravel">
                                     </div>
                                 </article>
                             </div>
@@ -370,7 +370,7 @@
                             <div class="card-body">
                                 <article>
                                     <div class="thumb md">
-                                        <img src="uploads/tech-thumb-2.png" alt="txt" title="txt">
+                                        <img src="uploads/tech-thumb-2.png" alt="WordPress" title="WordPress">
                                     </div>
                                 </article>
                             </div>
@@ -379,7 +379,7 @@
                             <div class="card-body">
                                 <article>
                                     <div class="thumb md">
-                                        <img src="uploads/tech-thumb-3.png" alt="txt" title="txt">
+                                        <img src="uploads/tech-thumb-3.png" alt="PHP" title="PHP">
                                     </div>
                                 </article>
                             </div>
@@ -388,7 +388,7 @@
                             <div class="card-body">
                                 <article>
                                     <div class="thumb md">
-                                        <img src="uploads/tech-thumb-4.png" alt="txt" title="txt">
+                                        <img src="uploads/tech-thumb-4.png" alt="Jquery" title="Jquery">
                                     </div>
                                 </article>
                             </div>
@@ -397,7 +397,7 @@
                             <div class="card-body">
                                 <article>
                                     <div class="thumb md">
-                                        <img src="uploads/tech-thumb-5.png" alt="txt" title="txt">
+                                        <img src="uploads/tech-thumb-5.png" alt="MySQL" title="MySQL">
                                     </div>
                                 </article>
                             </div>
@@ -406,7 +406,7 @@
                             <div class="card-body">
                                 <article>
                                     <div class="thumb md">
-                                        <img src="uploads/tech-thumb-6.png" alt="txt" title="txt">
+                                        <img src="uploads/tech-thumb-6.png" alt="Sass" title="Sass">
                                     </div>
                                 </article>
                             </div>
@@ -415,7 +415,7 @@
                             <div class="card-body">
                                 <article>
                                     <div class="thumb md">
-                                        <img src="uploads/tech-thumb-1.png" alt="txt" title="txt">
+                                        <img src="uploads/tech-thumb-9.png" alt="React" title="React">
                                     </div>
                                 </article>
                             </div>
@@ -424,7 +424,7 @@
                             <div class="card-body">
                                 <article>
                                     <div class="thumb md">
-                                        <img src="uploads/tech-thumb-2.png" alt="txt" title="txt">
+                                        <img src="uploads/tech-thumb-10.png" alt="Vue JS" title="Vue JS">
                                     </div>
                                 </article>
                             </div>
@@ -896,7 +896,7 @@
                                         </div>
                                     </article>
                                     <div class="btn-more">
-                                        <a href="#">Contact us<span class="lnr lnr-arrow-right"></span></a>
+                                        <a href="{{ url('contact') }}">Contact us<span class="lnr lnr-arrow-right"></span></a>
                                     </div>
                                 </div>
                             </div>
