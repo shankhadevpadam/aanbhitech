@@ -1,0 +1,27 @@
+
+$colors: (
+    'primary': #f8f9fa,
+    'secondary': #417bff,
+    'text': #999,
+    'anchor': #777,
+    'hover': #dd3545,
+    'heading': #666,
+);
+
+$small: 300px;
+$medium: 900px;
+$large: 1024px;
+
+
+/* CSS Variables */ 
+
+:root{
+    --primary-color: #4458dc;
+    --primary-color2: #854fee;
+    --title-color: #141313;
+    --text-color: #777777;  
+    --border-color: #201f1f17;  
+    --gradient-color: linear-gradient(90deg, #4458dc 0%, #854fee 100%);
+    --shadow-color:  0px 10px 30px rgba(118, 85, 225, 0.3);
+    --box-shadow: 0px 10px 30px rgba(57, 56, 61, 0.205);
+} 
